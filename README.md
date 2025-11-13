@@ -5,54 +5,82 @@ Aqui você vai encontrar meus estudos, projetos e evolução na programação.
 
 ---
 
+## 💻 Tecnologias que gosto de programar e estudar
+
+<p align="left">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- Kubernetes -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
 ## 🔭 Atualmente trabalhando em...
 
-- Projetos de estudo em **C, HTML e CSS**
-- Criação de sites simples para praticar desenvolvimento web
-- Organização de materiais e scripts que uso na faculdade
+- Projetos de estudo em **desenvolvimento web**
+- Scripts e exercícios da faculdade (**C, lógica e SQL**)
+- Sites básicos com **HTML/CSS/PHP**
 
 ---
 
 ## 🌱 Atualmente aprendendo...
 
-- Fundamentos de programação em **C**
-- Conceitos de **front-end (HTML e CSS)**
-- **Lógica de programação** e **estrutura de dados**
-- Conceitos de **Linux, I/O e Kubernetes** para apresentações e estudos
+- Programação em **C**
+- **HTML, CSS** e estrutura de páginas
+- **Linux** (I/O, processos e terminal)
+- **Kubernetes** (pods, nós e clusters)
+- **SQL** e modelagem de dados
 
 ---
 
-## 👯 Procurando colaborar em...
+## 🤝 Procurando colaborar em...
 
 - Projetos simples para iniciantes
-- Repositórios de estudo para treinar lógica e boas práticas
+- Repositórios acadêmicos ou educativos
 
 ---
 
 ## 🤔 Procurando ajuda com...
 
-- Melhorar minhas habilidades em **desenvolvimento web**
-- Entender melhor **Linux, Kubernetes** e ambientes de computação
-- Evoluir na **organização dos meus projetos no GitHub**
+- **Desenvolvimento web**
+- **Kubernetes** e **Linux**
+- Melhores práticas no **GitHub**
 
 ---
 
 ## 💬 Pergunte-me sobre...
 
-- Estudos para iniciantes em TI
-- Minha jornada no curso de ADS
-- Rotina de estudos e materiais para começar na área
+- Minha rotina de estudos em **ADS**
+- Como estou começando na **programação**
+- Projetos para iniciantes
 
 ---
 
 ## 📫 Como me encontrar
 
 - GitHub: [@LBontempo](https://github.com/LBontempo)
-- Instagram: [lucas.bontempo](https://instagram.com/lucas.bontempo)
+- *(Adicionar e-mail/LinkedIn se quiser)*
 
 ---
 
 ## ⚡ Curiosidade
 
-Sou **contador por formação**, **fã do Flamengo**, e agora **viajando pelo universo da programação** 🚀
+Sou **contador por formação**, **flamenguista** e apaixonado por **tecnologia** 🚀
 
