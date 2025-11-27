@@ -76,7 +76,6 @@ Aqui você vai encontrar meus estudos, projetos e evolução na programação.
 ## 📫 Como me encontrar
 
 - GitHub: [@LBontempo](https://github.com/LBontempo)
-- *(Adicionar e-mail/LinkedIn se quiser)*
 
 ---
 
